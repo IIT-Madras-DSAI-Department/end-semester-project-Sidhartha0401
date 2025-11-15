@@ -18,7 +18,7 @@ This repository is the **starter** for your End Semester Project submission in G
 
 ## 📁 Repository Structure
 
-* It has 3 files main.py,algorithm.py and ML_LAB_ENDSEM_REPORT
+* It has 3 files main.py,algorithm.py and ML_LAB_ENDSEM_REPORT_Final
 
 ---
 
