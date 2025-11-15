@@ -34,7 +34,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ### A. Command-line (recommended for grading)
 
-* My main.py has the code for my final model, you can just run my code wait for 4-5 minutes and all the required metrics like accuracy,F1 score and classification report will be printed.Also my algorithm.py contains the code for all the models that i tried and rejected,nothing will be the output by running it.
+* My main.py has the code for my final model, you can just run main.py code (without any dependencies on algorithms.py ) wait for 4-5 minutes and all the required metrics like accuracy,F1 score and classification report will be printed.Also my algorithm.py contains the code for all the models that i tried and rejected,nothing will be the output by running it.
   
 ---
 
